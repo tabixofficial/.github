@@ -9,7 +9,7 @@
 ### &#128231; Contact Us
 
 - 🌍 **Website:** [https://www.wolfguard.in](https://www.wolfguard.in/)
-- 📧 **Email:** [hii@octotech.in](mailto:contact@wolfguard.in)
+- 📧 **Email:** [contact@wolfguard.in](mailto:contact@wolfguard.in)
 
 
 ### 📞 **Get in Touch**
