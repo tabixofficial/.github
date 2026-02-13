@@ -12,6 +12,6 @@ At Octotech, we believe in:
 - 🚀 Innovation with purpose
 - 🧩 Clean, maintainable engineering
 
-@octotechdotin
+[@octotechdotin](https://github.com/octotechdotin)
 
 Website: https://www.octotech.in
